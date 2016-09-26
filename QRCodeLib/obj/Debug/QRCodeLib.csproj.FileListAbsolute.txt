@@ -1,0 +1,7 @@
+E:\Project\SorceCode\git\inventory\QRCodeLib\obj\Debug\QRCodeLib.Properties.Resources.resources
+E:\Project\SorceCode\git\inventory\QRCodeLib\obj\Debug\QRCodeLib.csproj.GenerateResource.Cache
+E:\Project\SorceCode\git\inventory\QRCodeLib\bin\Debug\QRCodeLib.dll
+E:\Project\SorceCode\git\inventory\QRCodeLib\bin\Debug\QRCodeLib.pdb
+E:\Project\SorceCode\git\inventory\QRCodeLib\obj\Debug\QRCodeLib.csprojResolveAssemblyReference.cache
+E:\Project\SorceCode\git\inventory\QRCodeLib\obj\Debug\QRCodeLib.dll
+E:\Project\SorceCode\git\inventory\QRCodeLib\obj\Debug\QRCodeLib.pdb

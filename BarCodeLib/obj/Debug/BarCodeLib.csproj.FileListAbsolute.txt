@@ -1,0 +1,10 @@
+E:\Project\SorceCode\ShopOneApp\BarCodeLib\bin\Debug\BarCodeLib.dll
+E:\Project\SorceCode\ShopOneApp\BarCodeLib\bin\Debug\BarCodeLib.pdb
+E:\Project\SorceCode\ShopOneApp\BarCodeLib\obj\Debug\BarCodeLib.csprojResolveAssemblyReference.cache
+E:\Project\SorceCode\ShopOneApp\BarCodeLib\obj\Debug\BarCodeLib.dll
+E:\Project\SorceCode\ShopOneApp\BarCodeLib\obj\Debug\BarCodeLib.pdb
+E:\Project\SorceCode\git\inventory\BarCodeLib\bin\Debug\BarCodeLib.dll
+E:\Project\SorceCode\git\inventory\BarCodeLib\bin\Debug\BarCodeLib.pdb
+E:\Project\SorceCode\git\inventory\BarCodeLib\obj\Debug\BarCodeLib.csprojResolveAssemblyReference.cache
+E:\Project\SorceCode\git\inventory\BarCodeLib\obj\Debug\BarCodeLib.dll
+E:\Project\SorceCode\git\inventory\BarCodeLib\obj\Debug\BarCodeLib.pdb

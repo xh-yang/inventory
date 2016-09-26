@@ -1,0 +1,8 @@
+E:\Project\SorceCode\ShopOneApp\Business\bin\Debug\Business.dll
+E:\Project\SorceCode\ShopOneApp\Business\bin\Debug\Business.pdb
+E:\Project\SorceCode\ShopOneApp\Business\obj\Debug\Business.dll
+E:\Project\SorceCode\ShopOneApp\Business\obj\Debug\Business.pdb
+E:\Project\SorceCode\git\inventory\Business\bin\Debug\Business.dll
+E:\Project\SorceCode\git\inventory\Business\bin\Debug\Business.pdb
+E:\Project\SorceCode\git\inventory\Business\obj\Debug\Business.dll
+E:\Project\SorceCode\git\inventory\Business\obj\Debug\Business.pdb

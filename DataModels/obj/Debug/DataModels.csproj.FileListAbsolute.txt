@@ -1,0 +1,11 @@
+E:\Project\SorceCode\ShopOneApp\DataModels\bin\Debug\DataModels.dll.config
+E:\Project\SorceCode\ShopOneApp\DataModels\bin\Debug\DataModels.dll
+E:\Project\SorceCode\ShopOneApp\DataModels\bin\Debug\DataModels.pdb
+E:\Project\SorceCode\ShopOneApp\DataModels\obj\Debug\DataModels.dll
+E:\Project\SorceCode\ShopOneApp\DataModels\obj\Debug\DataModels.pdb
+E:\Project\SorceCode\git\inventory\DataModels\bin\Debug\DataModels.dll.config
+E:\Project\SorceCode\git\inventory\DataModels\bin\Debug\DataModels.dll
+E:\Project\SorceCode\git\inventory\DataModels\bin\Debug\DataModels.pdb
+E:\Project\SorceCode\git\inventory\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
+E:\Project\SorceCode\git\inventory\DataModels\obj\Debug\DataModels.dll
+E:\Project\SorceCode\git\inventory\DataModels\obj\Debug\DataModels.pdb
