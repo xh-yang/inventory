@@ -38,5 +38,6 @@ E:\Project\SorceCode\git\inventory\ShopOneApp\obj\Debug\ShopOneApp.g.resources
 E:\Project\SorceCode\git\inventory\ShopOneApp\bin\Debug\ShopOneApp.exe
 E:\Project\SorceCode\git\inventory\ShopOneApp\bin\Debug\ShopOneApp.pdb
 E:\Project\SorceCode\git\inventory\ShopOneApp\bin\Debug\FirstFloor.ModernUI.dll
-E:\Project\SorceCode\git\inventory\ShopOneApp\bin\Debug\FirstFloor.ModernUI.xml
 E:\Project\SorceCode\git\inventory\ShopOneApp\obj\Debug\ShopOneApp.csprojResolveAssemblyReference.cache
+E:\Project\SorceCode\git\inventory\ShopOneApp\obj\Debug\ShopOneApp_Content.g.cs
+E:\Project\SorceCode\git\inventory\ShopOneApp\obj\Debug\Assets\DIYTheme.baml

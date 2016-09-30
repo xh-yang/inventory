@@ -8,6 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dll/firstfloor.modernui.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dll/microsoft.windows.shell.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dll/thoughtworks.qrcode.dll")]
 
 

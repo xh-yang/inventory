@@ -15,21 +15,9 @@ namespace ShopOneApp.Pages.Settings
     public class AppearanceViewModel
         : NotifyPropertyChanged
     {
-        private const string FontSmall = "small";
-        private const string FontLarge = "large";
-
-        // 9 accent colors from metro design principles
-        /*private Color[] accentColors = new Color[]{
-            Color.FromRgb(0x33, 0x99, 0xff),   // blue
-            Color.FromRgb(0x00, 0xab, 0xa9),   // teal
-            Color.FromRgb(0x33, 0x99, 0x33),   // green
-            Color.FromRgb(0x8c, 0xbf, 0x26),   // lime
-            Color.FromRgb(0xf0, 0x96, 0x09),   // orange
-            Color.FromRgb(0xff, 0x45, 0x00),   // orange red
-            Color.FromRgb(0xe5, 0x14, 0x00),   // red
-            Color.FromRgb(0xff, 0x00, 0x97),   // magenta
-            Color.FromRgb(0xa2, 0x00, 0xff),   // purple            
-        };*/
+        #region 变量定义
+        private const string FontSmall = "小";
+        private const string FontLarge = "大";
 
         // 20 accent colors from Windows Phone 8
         private Color[] accentColors = new Color[]{
@@ -59,13 +47,15 @@ namespace ShopOneApp.Pages.Settings
         private LinkCollection themes = new LinkCollection();
         private Link selectedTheme;
         private string selectedFontSize;
+        private static readonly Uri DIYTheme = new Uri("/Assets/DIYTheme.xaml", UriKind.Relative);
+        #endregion
 
         public AppearanceViewModel()
         {
-            // add the default themes
-            this.themes.Add(new Link { DisplayName = "dark", Source = AppearanceManager.DarkThemeSource });
-            this.themes.Add(new Link { DisplayName = "light", Source = AppearanceManager.LightThemeSource });
-
+            // 添加主题模板
+            this.themes.Add(new Link { DisplayName = "暗黑", Source = AppearanceManager.DarkThemeSource });
+            this.themes.Add(new Link { DisplayName = "明亮", Source = AppearanceManager.LightThemeSource });
+            this.themes.Add(new Link { DisplayName = "灰度", Source = DIYTheme });
             this.SelectedFontSize = AppearanceManager.Current.FontSize == FontSize.Large ? FontLarge : FontSmall;
             SyncThemeAndColor();
 

@@ -45,6 +45,7 @@
     <Compile Include="GetChinese.cs" />
     <Compile Include="Crypto_Decrypt.cs" />
     <Compile Include="PageDataModel.cs" />
+    <Compile Include="PermitClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PubAppKey.cs" />
     <Compile Include="ReadOrWriteReg.cs" />

@@ -6,3 +6,4 @@ E:\Project\SorceCode\git\inventory\PubClass\bin\Debug\PubClass.dll
 E:\Project\SorceCode\git\inventory\PubClass\bin\Debug\PubClass.pdb
 E:\Project\SorceCode\git\inventory\PubClass\obj\Debug\PubClass.dll
 E:\Project\SorceCode\git\inventory\PubClass\obj\Debug\PubClass.pdb
+E:\Project\SorceCode\git\inventory\PubClass\obj\Debug\PubClass.csprojResolveAssemblyReference.cache
