@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PublicClass
 {
-    public class GetChinese
+    public static class GetChinese
     {
         /// <summary>
         /// 默认构造函数
@@ -15,7 +15,7 @@ namespace PublicClass
         }
 
         #region 根据汉字获取拼音首写字母
-        public string GetChineseSpell(string ChineseText)
+        public static string GetChineseSpell(string ChineseText)
         {
             string MyStr = "";
             for (int i = 0; i < ChineseText.Length; i++)
@@ -27,7 +27,7 @@ namespace PublicClass
         #endregion
 
         #region 将拆开的字符转换出首写字母
-        public string GetSpell(string CNChare)
+        public static string GetSpell(string CNChare)
         {
             byte[] arrCN = Encoding.Default.GetBytes(CNChare);
             if (arrCN.Length > 1)
